@@ -1,0 +1,10 @@
+scipy
+matplotlib
+scikit-image
+opencv-python
+cupy-cuda92==5.1.0
+chainer==5.1.0
+chainercv
+ipdb
+ideep4py==2.0.0
+tqdm
